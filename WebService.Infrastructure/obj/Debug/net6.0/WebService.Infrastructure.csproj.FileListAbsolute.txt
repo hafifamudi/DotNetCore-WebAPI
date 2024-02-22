@@ -1,0 +1,17 @@
+E:\Practical\Test Project\WebService.Infrastructure\bin\Debug\net6.0\WebService.Infrastructure.deps.json
+E:\Practical\Test Project\WebService.Infrastructure\bin\Debug\net6.0\WebService.Infrastructure.runtimeconfig.json
+E:\Practical\Test Project\WebService.Infrastructure\bin\Debug\net6.0\WebService.Infrastructure.dll
+E:\Practical\Test Project\WebService.Infrastructure\bin\Debug\net6.0\WebService.Infrastructure.pdb
+E:\Practical\Test Project\WebService.Infrastructure\bin\Debug\net6.0\WebService.Core.dll
+E:\Practical\Test Project\WebService.Infrastructure\bin\Debug\net6.0\WebService.Core.pdb
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.csproj.AssemblyReference.cache
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.AssemblyInfoInputs.cache
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.AssemblyInfo.cs
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.csproj.CopyComplete
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.dll
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\refint\WebService.Infrastructure.dll
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.pdb
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\WebService.Infrastructure.genruntimeconfig.cache
+E:\Practical\Test Project\WebService.Infrastructure\obj\Debug\net6.0\ref\WebService.Infrastructure.dll

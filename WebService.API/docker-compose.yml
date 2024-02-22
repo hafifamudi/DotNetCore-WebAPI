@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  api:
+    image: hafif123/dotnetcore-webapi:v1.0
+    depends_on:
+      - db
+    ports:
+      - "8081:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+80
+      - ConnectionStrings__DefaultConnection=User ID=postgres;Server=db;Port=5432;Database=postgres;Username=postgres;Password=rootuser;
+
+
+  db:
+    image: postgres
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: rootuser
+    ports:
+      - "5435:5432"

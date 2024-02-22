@@ -1,0 +1,12 @@
+E:\Practical\Test Project\WebService.Core\bin\Debug\net6.0\WebService.Core.deps.json
+E:\Practical\Test Project\WebService.Core\bin\Debug\net6.0\WebService.Core.dll
+E:\Practical\Test Project\WebService.Core\bin\Debug\net6.0\WebService.Core.pdb
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.csproj.AssemblyReference.cache
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.AssemblyInfoInputs.cache
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.AssemblyInfo.cs
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.csproj.CoreCompileInputs.cache
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.dll
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\refint\WebService.Core.dll
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\WebService.Core.pdb
+E:\Practical\Test Project\WebService.Core\obj\Debug\net6.0\ref\WebService.Core.dll

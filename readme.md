@@ -56,6 +56,14 @@ Relasi dari kedua entitas adalah (One To Many) - (Many To One). Sebuah Employee 
 2. jika ingin tambah migrasi gunakan perintah ini -> `dotnet ef migrations add InitTable -p ..\WebService.Infrastructure`, di dalam folder WebService.API
 ```
 
+## Import Postman Collection
+
+1. Menjalankan Unit Testing
+
+```bash
+1. Di dalam WebService.API terdapat file .json hasil dari export postman `DotNetCore-WebAPI.postman_collection.json`, silahkan di import untuk melakukan API test menggunakan Postman
+```
+
 ## Unit Testing
 
 1. Menjalankan Unit Testing
